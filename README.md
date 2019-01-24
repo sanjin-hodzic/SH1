@@ -12,3 +12,10 @@
 - Python
 - PHP
 - JavaScript
+## Section 4: Branch#1 work
+- New feature
+- Additional user optiions
+- Registration update
+## Section 5: Algorithms
+- New algorithm 
+- Counting
