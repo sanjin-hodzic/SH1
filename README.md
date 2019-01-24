@@ -6,3 +6,4 @@
 ## Section 2: Some Basic Tools
 - Weka
 - Rapidminer
+- IBM Analytics
