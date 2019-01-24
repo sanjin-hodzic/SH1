@@ -12,3 +12,7 @@
 - Python
 - PHP
 - JavaScript
+## Section 4: Branch#1 work
+- New feature
+- Additional user optiions
+- Registration update
