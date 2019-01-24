@@ -16,3 +16,6 @@
 - New feature
 - Additional user optiions
 - Registration update
+## Section 5: Algorithms
+- New algorithm 
+- Counting
