@@ -7,3 +7,8 @@
 - Weka
 - Rapidminer
 - IBM Analytics
+## Section 3: Programing 
+- C++
+- Python
+- PHP
+- JavaScript
